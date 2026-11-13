@@ -1,2 +1,1 @@
-# Linux-assignment-
-Linux commands
+# Linux-assignment
